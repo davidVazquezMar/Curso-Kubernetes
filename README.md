@@ -1,5 +1,5 @@
 # Curso-Kubernetes
-
+https://www.youtube.com/watch?v=5ovqsvqwtZM
 Material que se uso en el Curso de Kubernetes impartido por CodeURJ.
 
 ## Ejercicio 1
